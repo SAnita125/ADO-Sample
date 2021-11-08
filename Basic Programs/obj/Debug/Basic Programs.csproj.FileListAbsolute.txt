@@ -1,0 +1,7 @@
+C:\Users\anita\source\repos\Basic Programs\Basic Programs\bin\Debug\Basic Programs.exe.config
+C:\Users\anita\source\repos\Basic Programs\Basic Programs\bin\Debug\Basic Programs.exe
+C:\Users\anita\source\repos\Basic Programs\Basic Programs\bin\Debug\Basic Programs.pdb
+C:\Users\anita\source\repos\Basic Programs\Basic Programs\obj\Debug\Basic Programs.csproj.AssemblyReference.cache
+C:\Users\anita\source\repos\Basic Programs\Basic Programs\obj\Debug\Basic Programs.csproj.CoreCompileInputs.cache
+C:\Users\anita\source\repos\Basic Programs\Basic Programs\obj\Debug\Basic Programs.exe
+C:\Users\anita\source\repos\Basic Programs\Basic Programs\obj\Debug\Basic Programs.pdb
